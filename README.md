@@ -68,7 +68,7 @@ These insights can be useful in determining which stations and during which time
 
 During analysis, I discovered that riders tend to prefer renting bycicles during the warmer months and rentals sharply drop off during colder months of the year. Furthermore, I discovered that some rental stations were more popular than others, with some stations having as little as one rental.
 
-![riders-per-month](https://github.com/Herringtonjc/cyclistic-case-study/assets/7733046/0121a4b7-3273-491d-a6cf-4ebd811909cf)
+![riders-per-month](https://github.com/Herringtonjc/cyclistic-case-study/assets/7733046/ed45d865-bb73-46c7-aa6c-695f0a5353f6)
 
 [Interactive Visualization](https://public.tableau.com/app/profile/jarred.herrington/viz/NumberofRidersPerMonth/Sheet2)
 
