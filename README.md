@@ -60,6 +60,8 @@ The data was organized into one table to be easier to query after all null or em
 
 ![casual-vs-member](https://github.com/Herringtonjc/cyclistic-case-study/assets/7733046/e2356b2a-40c2-4a43-b4ba-45bc2b9c3743)
 
+[Interactive Visualization](https://public.tableau.com/app/profile/jarred.herrington/viz/MembersVersusCasualRiders/Sheet1)
+
 These insights can be useful in determining which stations and during which times targeted advertising would be the most effective.
 
 ## Share
@@ -68,7 +70,11 @@ During analysis, I discovered that riders tend to prefer renting bycicles during
 
 ![riders-per-month](https://github.com/Herringtonjc/cyclistic-case-study/assets/7733046/0121a4b7-3273-491d-a6cf-4ebd811909cf)
 
+[Interactive Visualization](https://public.tableau.com/app/profile/jarred.herrington/viz/NumberofRidersPerMonth/Sheet2)
+
 ![popular-locations](https://github.com/Herringtonjc/cyclistic-case-study/assets/7733046/b2c95b97-438c-418c-8879-aa2ceb0c932a)
+
+[Interactive Visualization](https://public.tableau.com/app/profile/jarred.herrington/viz/10MostPopularBicycleSharingStartLocations/Sheet1)
 
 These insights were developed based on the necessity of converting already paying casual members into annual subscription members.
 
